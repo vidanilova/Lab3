@@ -1,0 +1,15 @@
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\bin\Debug\net6.0\3лаба.exe
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\bin\Debug\net6.0\3лаба.deps.json
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\bin\Debug\net6.0\3лаба.runtimeconfig.json
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\bin\Debug\net6.0\3лаба.dll
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\bin\Debug\net6.0\3лаба.pdb
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.csproj.AssemblyReference.cache
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.AssemblyInfoInputs.cache
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.AssemblyInfo.cs
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.csproj.CoreCompileInputs.cache
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.dll
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\refint\3лаба.dll
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.pdb
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\3лаба.genruntimeconfig.cache
+C:\Users\Виолетта\OneDrive\Рабочий стол\Учеба\2 курс\4 семестр\ИСРПО\lab 3\3лаба\obj\Debug\net6.0\ref\3лаба.dll
