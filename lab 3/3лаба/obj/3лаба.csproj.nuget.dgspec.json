@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Виолетта\\OneDrive\\Рабочий стол\\Учеба\\2 курс\\4 семестр\\ИСРПО\\lab 3\\3лаба\\3лаба.csproj": {}
+    "C:\\Users\\Виолетта\\Source\\Repos\\vidanilova\\Lab3\\lab 3\\3лаба\\3лаба.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Виолетта\\OneDrive\\Рабочий стол\\Учеба\\2 курс\\4 семестр\\ИСРПО\\lab 3\\3лаба\\3лаба.csproj": {
+    "C:\\Users\\Виолетта\\Source\\Repos\\vidanilova\\Lab3\\lab 3\\3лаба\\3лаба.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Виолетта\\OneDrive\\Рабочий стол\\Учеба\\2 курс\\4 семестр\\ИСРПО\\lab 3\\3лаба\\3лаба.csproj",
+        "projectUniqueName": "C:\\Users\\Виолетта\\Source\\Repos\\vidanilova\\Lab3\\lab 3\\3лаба\\3лаба.csproj",
         "projectName": "3лаба",
-        "projectPath": "C:\\Users\\Виолетта\\OneDrive\\Рабочий стол\\Учеба\\2 курс\\4 семестр\\ИСРПО\\lab 3\\3лаба\\3лаба.csproj",
+        "projectPath": "C:\\Users\\Виолетта\\Source\\Repos\\vidanilova\\Lab3\\lab 3\\3лаба\\3лаба.csproj",
         "packagesPath": "C:\\Users\\Виолетта\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Виолетта\\OneDrive\\Рабочий стол\\Учеба\\2 курс\\4 семестр\\ИСРПО\\lab 3\\3лаба\\obj\\",
+        "outputPath": "C:\\Users\\Виолетта\\Source\\Repos\\vidanilova\\Lab3\\lab 3\\3лаба\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
